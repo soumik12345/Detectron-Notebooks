@@ -18,6 +18,8 @@ This Notebook is based on the initial colab notebook tutorial provided by Detect
 
 ## Object Detection
 
+### Hand Detection
+
 **Notebook Link:** [Hand Detection using Faster RCNN](./notebooks/Hand_Detection_Detectron.ipynb)
 
 **Dataset Link:** [Egohands Dataset](http://vision.soic.indiana.edu/projects/egohands/)
@@ -27,5 +29,17 @@ This Notebook is based on the initial colab notebook tutorial provided by Detect
 ![Hand Detection Result 1](./assets/object_detection_result_2.png)
 
 ![Hand Detection Result 2](./assets/object_detetction_result_1.png)
+
+### License Plate Detection
+
+**Notebook Link:** [License Plate Detection using Faster RCNN](./notebooks/Licence_Plate_Detection.ipynb)
+
+**Dataset Link:** [Indian Number Plates](https://dataturks.com/projects/devika.mishra/Indian_Number_plates/)
+
+**Results:**
+
+![License Plate Detection Result 1](./assets/license_plate_result_1.png)
+
+![License Plate Detection Result 2](./assets/license_plate_result_2.png)
 
 More notebooks on Detectron2 will keep coming.
